@@ -1,3 +1,5 @@
 # My first repository
 
-Created to
+Created to make interesting things.
+
+#Testing
